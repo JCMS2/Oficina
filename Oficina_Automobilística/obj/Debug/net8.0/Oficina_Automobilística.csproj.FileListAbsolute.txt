@@ -12,3 +12,4 @@ C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\
 C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\Oficina_Automobilística.pdb
 C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\Oficina_Automobilística.genruntimeconfig.cache
 C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\ref\Oficina_Automobilística.dll
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\Oficina_Automobilística.sourcelink.json

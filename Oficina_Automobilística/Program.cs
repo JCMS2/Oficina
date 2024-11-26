@@ -71,10 +71,12 @@ void Inicio() {
             }
             break;
         case 3:
+            Console.Clear();
             Console.WriteLine("1-Exibir mecanico");
             Console.WriteLine("2-Adicionar mecanico");
             Console.WriteLine("3-Remover mecanico");
             Console.WriteLine("4- Ativar mecanico");
+            Console.WriteLine("5-voltar ao menu");
             int escolha3 = int.Parse(Console.ReadLine()!);
             switch (escolha3)
             {
@@ -104,9 +106,11 @@ void Inicio() {
             }
             break;
         case 4:
+            Console.Clear();
             Console.WriteLine("1-Exibir carro");
             Console.WriteLine("2-Adicionar carro");
             Console.WriteLine("3-Remover carro");
+            Console.WriteLine("4-Voltar ao menu");
             int escolha4 = int.Parse(Console.ReadLine()!);
             switch (escolha4)
             {

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Channels;
 using System.Threading.Tasks;
@@ -29,8 +30,18 @@ namespace Oficina_Automobilística
                 }
                 if (Servicos.ListaServicos.ContainsKey(escolha))
                 {
-                    Orcamen.Add(escolha, Servicos.ListaServicos[escolha]);
-                    Console.WriteLine($"Serviço {escolha} adicionado no orçamento");
+                    if (Orcamen.ContainsKey(escolha))
+                    {
+                        Console.WriteLine("Serviço ja esta no Orçamento tente novamente");
+                        ExibirOracamento();
+                    }
+                    else
+                    {
+                        Orcamen.Add(escolha, Servicos.ListaServicos[escolha]);
+                        Console.WriteLine($"Serviço {escolha} adicionado no orçamento");
+                        
+                    }
+                    
                 }
                 else
                 {
@@ -51,6 +62,7 @@ namespace Oficina_Automobilística
                     total += i.Value;
                 }
                 Console.WriteLine($"Total: {total}");
+                
             }
            
         }
