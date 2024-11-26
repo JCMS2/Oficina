@@ -1,0 +1,14 @@
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\bin\Debug\net8.0\Oficina_Automobilística.exe
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\bin\Debug\net8.0\Oficina_Automobilística.deps.json
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\bin\Debug\net8.0\Oficina_Automobilística.runtimeconfig.json
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\bin\Debug\net8.0\Oficina_Automobilística.dll
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\bin\Debug\net8.0\Oficina_Automobilística.pdb
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\Oficina_Automobilística.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\Oficina_Automobilística.AssemblyInfoInputs.cache
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\Oficina_Automobilística.AssemblyInfo.cs
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\Oficina_Automobilística.csproj.CoreCompileInputs.cache
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\Oficina_Automobilística.dll
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\refint\Oficina_Automobilística.dll
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\Oficina_Automobilística.pdb
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\Oficina_Automobilística.genruntimeconfig.cache
+C:\Users\Moura\Desktop\C#\Oficina_Automobilística\Oficina_Automobilística\obj\Debug\net8.0\ref\Oficina_Automobilística.dll

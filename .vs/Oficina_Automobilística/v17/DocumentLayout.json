@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|c:\\users\\moura\\desktop\\c#\\oficina_automobil\u00EDstica\\oficina_automobil\u00EDstica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|solutionrelative:oficina_automobil\u00EDstica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|c:\\users\\moura\\desktop\\c#\\oficina_automobil\u00EDstica\\oficina_automobil\u00EDstica\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|solutionrelative:oficina_automobil\u00EDstica\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|c:\\users\\moura\\desktop\\c#\\oficina_automobil\u00EDstica\\oficina_automobil\u00EDstica\\servicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|solutionrelative:oficina_automobil\u00EDstica\\servicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|c:\\users\\moura\\desktop\\c#\\oficina_automobil\u00EDstica\\oficina_automobil\u00EDstica\\mecanicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|solutionrelative:oficina_automobil\u00EDstica\\mecanicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|c:\\users\\moura\\desktop\\c#\\oficina_automobil\u00EDstica\\oficina_automobil\u00EDstica\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|solutionrelative:oficina_automobil\u00EDstica\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|c:\\users\\moura\\desktop\\c#\\oficina_automobil\u00EDstica\\oficina_automobil\u00EDstica\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD82DA76-D6C1-420B-BCFF-A182850CDEAC}|Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica.csproj|solutionrelative:oficina_automobil\u00EDstica\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Program.cs",
+              "RelativeDocumentMoniker": "Oficina_Automobil\u00EDstica\\Program.cs",
+              "ToolTip": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Program.cs",
+              "RelativeToolTip": "Oficina_Automobil\u00EDstica\\Program.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAIUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:16:24.392Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculos.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Veiculos.cs",
+              "RelativeDocumentMoniker": "Oficina_Automobil\u00EDstica\\Veiculos.cs",
+              "ToolTip": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Veiculos.cs",
+              "RelativeToolTip": "Oficina_Automobil\u00EDstica\\Veiculos.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:23:30.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Servicos.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Servicos.cs",
+              "RelativeDocumentMoniker": "Oficina_Automobil\u00EDstica\\Servicos.cs",
+              "ToolTip": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Servicos.cs",
+              "RelativeToolTip": "Oficina_Automobil\u00EDstica\\Servicos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:33:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mecanicos.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Mecanicos.cs",
+              "RelativeDocumentMoniker": "Oficina_Automobil\u00EDstica\\Mecanicos.cs",
+              "ToolTip": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Mecanicos.cs",
+              "RelativeToolTip": "Oficina_Automobil\u00EDstica\\Mecanicos.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAA0wF8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:23:28.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Cliente.cs",
+              "RelativeDocumentMoniker": "Oficina_Automobil\u00EDstica\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Cliente.cs",
+              "RelativeToolTip": "Oficina_Automobil\u00EDstica\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:23:27.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orcamento.cs",
+              "DocumentMoniker": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Orcamento.cs",
+              "RelativeDocumentMoniker": "Oficina_Automobil\u00EDstica\\Orcamento.cs",
+              "ToolTip": "C:\\Users\\Moura\\Desktop\\C#\\Oficina_Automobil\u00EDstica\\Oficina_Automobil\u00EDstica\\Orcamento.cs",
+              "RelativeToolTip": "Oficina_Automobil\u00EDstica\\Orcamento.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:09:46.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
