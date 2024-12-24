@@ -1,4 +1,4 @@
-﻿using Oficina_Automobilística;
+using Oficina_Automobilística;
 Servicos s = new Servicos(); Mecanicos m = new Mecanicos(); Orcamento o= new Orcamento();
 Cliente c=new Cliente("João Paulo","2646465456"); Veiculos v=new Veiculos();
 void Inicio() {
@@ -76,7 +76,8 @@ void Inicio() {
             Console.WriteLine("2-Adicionar mecanico");
             Console.WriteLine("3-Remover mecanico");
             Console.WriteLine("4- Ativar mecanico");
-            Console.WriteLine("5-voltar ao menu");
+            Console.WriteLine("5-Atribuir Trabalho");
+            Console.WriteLine("6-voltar ao menu");
             int escolha3 = int.Parse(Console.ReadLine()!);
             switch (escolha3)
             {
@@ -100,7 +101,12 @@ void Inicio() {
                     m.AtivarMecanico();
                     VoltarInicio();
                     break;
-                case 5: Console.Clear();
+                case 5:
+                    Console.Clear();
+                    m.AtribuirTrabalho();
+                    VoltarInicio();
+                    break;
+                case 6: Console.Clear();
                     VoltarInicio();
                     break;
             }
