@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -63,18 +63,22 @@ namespace Oficina_Automobilística
             Console.WriteLine("Lista de mecanicos: \n");
             foreach (var me in Mecanico)
             {
-                Console.WriteLine($"Mecanico: {me.Key}, Disponivel: {me.Value}");
+                Console.WriteLine($"Mecanico:{me.Key}, Disponivel:{(me.Value? "Sim":"Não")}");
             }
             Console.WriteLine("Digite o nome do mecanico que quer que comece a trabalhar");
             string escolha = Console.ReadLine()!;
-            if (Mecanico.ContainsKey(escolha))
+            if (Mecanico.ContainsKey(escolha) && Mecanico[escolha] ==true)
             {
                 Mecanico[escolha] = false;
-                Console.WriteLine($"Mecanico: {Mecanico.Keys}, Disponivel: {Mecanico.Values}");
+                foreach (var e in Mecanico)
+                {
+                    Console.WriteLine($"Mecanico: {e.Key}, Disponivel: {(e.Value? "Sim":"Não")}");
+                }
+                
             }
             else
             {
-                Console.WriteLine("esse mecanico nao existe");
+                Console.WriteLine("esse mecanico nao existe ou ja esta trabalhando");
             }
         }
         public void AtivarMecanico()
